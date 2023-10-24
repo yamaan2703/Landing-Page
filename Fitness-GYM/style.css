@@ -1,0 +1,369 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.section1{
+    background: url(images/home.jpg);
+    width: 100%;
+    height: 800px;
+    background-position: center;
+    background-size: cover;
+}
+.shadow{
+    background: rgba(0, 0, 0, .4);
+    height: 800px;
+}
+.box{
+    padding: 100px;
+}
+.section1 .home-button button{
+    background: transparent;
+    padding: 15px;
+    margin: 5px;
+    margin-top: 15px;
+    width: 250px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    border-color: #ffc63d;
+}
+.section1 .home-button button:hover{
+    background-color: white;
+    color: black;
+    border: none;
+}
+.section1 .home-button .button1{
+    background-color: #ffc63d;
+    border: none;
+    color: black;
+}
+.sec2-heading h1{
+    font-size: 60px;
+}
+.section2 .card{
+    border: none;
+    background-color: #ffc63d;
+    margin-top: 80px;
+}
+.section2 .card .icon {
+    background-color: white;
+    border: 5px solid #ffc63d;
+    width: 100px;
+    padding: 10px 5px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: -50px;
+    box-shadow: white;
+}
+.section3{
+    background-image: url(images/bg1.jpg);
+    width: 100%;
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+}
+.shadow2{
+    background: rgba(0, 0, 0, .4);
+    height: 600px;
+}
+.section3 .sec3-text h1{
+    font-size: 65px;
+    padding-top: 200px;
+}
+.sec3-btn button{
+margin-top: 100px;
+    background-color: #ffc63d;
+    border: none;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    border-color: #ffc63d;
+}
+.sec3-btn button:hover{
+    background-color: white;
+    color: black;
+    border: none;
+}
+.section4 .sec4-text{
+    padding-top: 100px;
+    margin-left: 100px;
+    width: 400px;
+}
+.sec4-btn{
+    margin-top: 10px;
+    background-color: #ffc63d;
+    border: none;
+    color: black;
+    width: 250px;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    border-color: #ffc63d;
+}
+.sec4-btn:hover{
+    background-color: black;
+    color: white;
+    border: none;
+}
+.section4 .sec4-text2{
+    margin-left: 100px;
+    width: 400px;
+    padding-top: 100px;
+}
+.section4 .sec4-img{
+    margin-left: 50px;
+}
+.count5-col1{
+    padding-top: -1000px;
+}
+.section5 .count5-text{
+    padding-top: 50px;
+}
+.section5 .count5-img{
+    padding-top: 200px;
+}
+.section5{
+    background-color: #ffc63d;
+    height: 1000px;
+}
+.section5 .btn5{
+    border: none;
+    background: transparent;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
+.section5 .btn5:hover{
+    color: #ffc63d;
+    border-color: #ffc63d;
+}
+.section5 .sec5-img{
+
+}
+.section5 .sec5-img2{
+    padding-top: 150px;
+}
+.section5 .left span{
+    background-color: #ffc63d;
+}
+.section6{
+    background-image: url(images/bg8.jpg);
+    width: 100%;
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    margin-top: 400px;
+}
+.section6 .sec6-overlay{
+    background: rgba(0, 0, 0, .4);
+    height: 600px;
+    
+}
+.section6 .sec6-card{
+    border: 2px solid #ffc63d;
+    width: 400px;
+    margin-top: 100px;
+}
+.section6 .sec6-card p{
+    font-size: 20px;
+}
+.section6 .sec6-card button{
+    margin-top: 10px;
+    background-color: #ffc63d;
+    border: none;
+    color: black;
+    width: 250px;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    border-color: #ffc63d;
+}
+.section6 .sec6-card button:hover{
+    background-color: white;
+    border: 2px solid gray;
+    color: black;
+}
+.section7{
+    margin-top: 400px;
+}
+.section7 .sec7-card button{
+    margin: 10px;
+    margin-left: 80px;
+    background-color: #ffc63d;
+    border: none;
+    color: black;
+    width: 250px;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    border-color: #ffc63d;
+}
+.section7 img:hover{
+   opacity: 0.5;
+   transition: 1s;
+}
+.section8{
+    background-image: url(images/bg15.jpg);
+    width: 100%;
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+    margin-top: 100px;
+}
+.section8 .sec8-overlay{
+    background: rgba(0, 0, 0, .4);
+    height: 700px;
+}
+.section8 .sec8-main{
+    padding-top: 200px;
+}
+.section9 .sec9-text button{
+    margin: 10px;
+    margin-left: 0px;
+    background-color: #ffc63d;
+    border: none;
+    color: black;
+    width: 250px;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    border-color: #ffc63d;
+}
+.section9 .sec9-text button:hover{
+    background-color: black;
+    border: none;
+    color: white;
+}
+.section10{
+    background-image: url(images/bg16.jpg);
+    width: 100%;
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    margin-top: 100px;
+}
+.section10 .sec10-overlay{
+    background: rgba(0, 0, 0, .4);
+    height: 600px;
+}
+.section10 .sec10-main{
+    padding-top: 100px;
+}
+.section11{
+    background-color: #ffc63d;
+}
+.section11 .contact-text .left, .section11 .contact-text .right{
+    display: inline-block;
+}
+.section11 .contact-text .left input, .section11 .contact-text .right input{
+    padding: 10px;
+    border: 2px solid white;
+    color: white;
+    margin: 10px;
+    width: 400px;
+}
+.section11 .textarea textarea{
+    padding: 10px;
+    color: white;
+    width: 820px;
+    border: 2px solid white;
+}
+.section11 button{
+    margin: 10px;
+    margin-left: 0px;
+    background-color: black;
+    border: none;
+    color: white;
+    width: 250px;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.section11 button:hover{
+    background-color: white;
+    border: none;
+    color: black;
+}
+@media screen and (max-width: 770px){
+    .box{
+        padding: 50px;
+    }
+    .home-img img{
+        width: 150px;
+    }
+    .section1 .heading{
+        font-size: 35px;
+    }
+    .section2 .card .icon{
+        margin-left: 50px;
+    }
+    .sec2-heading h1{
+        font-size: 30px;
+    }
+    .section3 .sec3-text h1{
+        font-size: 40px;
+    }
+    .sec3-btn button{
+        width: 250px;
+        font-size: 16px;
+        padding: 20px;
+    }
+    .section4 .sec4-text{
+        width: 100%;
+        margin-left: 0px;
+        padding-top: 50px;
+    }
+    .section4 .sec4-text2{
+         margin-left: 0px;
+         width: 100%;
+         padding-top: 10px;
+    }
+    .section4 .sec4-img2{
+        margin-left: 0px; 
+        width: 100%;
+    }
+    .section4 .sec4-img2 img{
+        width: 100%;
+        margin-top: 30px;
+    }
+    .section4 .sec4-img img{
+        width: 100%;
+        margin-left: -30px;
+        margin-top: 10px;
+    }
+    .section5{
+        background-color: #ffc63d;
+        height: 2000px;
+    }
+    .section5 .sec5-img{
+          margin-top: 20px;
+    }
+    .section5 .sec5-img2{
+        margin-top: -120px;
+    }
+    .section6{
+        margin-top: 1600px;
+    }
+    .section6 .sec6-card{
+        border: 2px solid #ffc63d;
+        width: 100%;
+        margin-top: 30px;
+    }
+    .section7{
+        margin-top: 1300px;
+    }
+    .section7 .sec7-card button{
+        margin: 10px;
+        margin-left: 50px;
+    }
+    .section9 .sec9-text{
+        width: 100% !important;
+    }
+}
